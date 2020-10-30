@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/cantixcrew/sccantix"><img src="https://avatars2.githubusercontent.com/u/49995452?s=460&u=88589773138c5c399e6d8bf5b56b321be38eb30a&v=4" alt="s1cans"></a>
-  <br>
+  <br><h4>Cantix Crew Script</h4>
 </h1>
 
 ### Cantix Crew Script
