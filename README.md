@@ -5,6 +5,7 @@
 </h1>
 
 ### Cantix Crew Script
+#### follow us
 
 ![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnenghaxor)
 ![Follow](https://img.shields.io/twitter/follow/cantixcr3w?label=Follow&style=social)
